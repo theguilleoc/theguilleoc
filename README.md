@@ -6,7 +6,7 @@ I'm **Guillermo Diego Ojeda Cueto**, an **Electromechanical Engineering student*
 
 ## 🌟 About Me
 - 🌱 **Currently learning:** Specialized Program in Applied Data Science with Python (University of Michigan, Coursera)  
-- 🎓 **Completed:** Google Advanced Data Analytics Certification (in progress)  
+- 🎓 **Completed:** Google Advanced Data Analytics Certification 
 - 🔭 **Experience:**  
   - **Junior Analyst at Megapar S.A.:**  
     - Conducted technical analysis, budgeting, and design of fire protection systems.  
@@ -29,7 +29,7 @@ I'm **Guillermo Diego Ojeda Cueto**, an **Electromechanical Engineering student*
 - 🌐 **Languages:**  
   - **Spanish:** Native  
   - **English:** Advanced (*Paraguayan American Cultural Center - CCPA*)  
-  - **Portuguese:** Basic  
+  - **Portuguese:** Basic (*ILPOR IDIOMAS*)
 
 ---
 
